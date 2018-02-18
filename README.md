@@ -1,5 +1,8 @@
+### このリポジトリについて  
+docker-compose で redis, mysql のコンテナを起動する  
+
 ### 使い方  
-忘れやすい自分のために, docker-compose を使ってコンテナ起動する方法を書いておく  
+docker-compose の使い方は下記のとおり  
 
 ```
 [コンテナ作成/起動]
